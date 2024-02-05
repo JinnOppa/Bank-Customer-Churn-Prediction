@@ -1,5 +1,4 @@
-# Bank Customer Churn Prediction Project
-
+# Predicting Customer Churn in Banking Balancing Accuracy and Retention
 ---
 
 Welcome to the Customer Churn Prediction Project! This project aims to predict whether a bank customer will leave the company based on their past behavior and contract termination history. The project involves data preparation, model training, and evaluation to achieve the highest F1 score possible. Additionally, we'll explore techniques to handle class imbalance and compare the F1 score with the AUC-ROC metric.
